@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Ths is the state class"""
+"""This is the state class"""
 import os
 import models
 from models.base_model import BaseModel, Base
