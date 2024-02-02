@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Moduule to create a mysql engine"""
+"""Module to create a mysql engine"""
 
 import os
 from models.base_model import BaseModel, Base
